@@ -1,0 +1,7 @@
+# One lesson URL per line.
+# Lines starting with # and blank lines are ignored.
+# The URL must point to a single lesson page that embeds a Kinescope iframe.
+
+https://learn.example.com/lesson/100
+https://learn.example.com/lesson/101
+https://learn.example.com/lesson/102
